@@ -7,7 +7,7 @@ Funcionalidades
 ✅ Conversão em tempo real entre diferentes moedas <br>
 ✅ Consumo de API externa usando HttpURLConnection <br>
 ✅ Leitura e tratamento de JSON com Gson <br>
-✅ Entrada de dados via console (ou Swing, caso adicionado) <br>
+✅ Entrada de dados via console <br>
 ✅ Estrutura simples e compatível com IntelliJ IDEA, NetBeans ou Eclipse <br>
 
 ## Tecnologias utilizadas
@@ -19,7 +19,7 @@ ExchangeRate-API (para taxas de câmbio)
 ## 📦 Como configurar o projeto
 
 1️⃣ Clone ou baixe o repositório
-git clone https://github.com/seu-usuario/conversor-moedas-java.git
+git clone https://github.com/MauricioEdg/Conversor-de-moeda.git
 
 2️⃣ Abra o projeto no IntelliJ IDEA <br>
 Vá em File → Open <br> 
