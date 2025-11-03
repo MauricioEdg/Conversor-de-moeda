@@ -27,7 +27,7 @@ public class ConversorMoedas {
         }
     }
     public static double converterMoeda(String from, String to, double amount) throws IOException {
-        String apiKey = "54d5e8a91c56fbc9c3974013"; // coloque sua chave aqui
+        String apiKey = "key"; 
         String urlStr = "https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/" + from;
 
         URL url = new URL(urlStr);
